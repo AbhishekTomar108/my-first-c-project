@@ -1,0 +1,1991 @@
+@media(min-width: 1200px) and (max-width:1300px) {
+    .top-secton nav.navbar a.nav-link {
+        font-size:16px;
+        padding: 9px 18px
+    }
+}
+
+@media(min-width: 993px) and (max-width:1200px) {
+    .digital-marketing-txt.seo-page-cont iframe {
+        width:100%!important
+    }
+
+    body.seo-reseller-services-main .figure-info-ui {
+        width: 430px
+    }
+
+    .top-secton nav.navbar a.nav-link {
+        padding: 10px 20px!important;
+        font-size: 12px!important
+    }
+
+    .dropdown-parent span.plus-tab {
+        border-left: 5px solid transparent;
+        border-right: 5px solid transparent;
+        border-top: 5px solid #4a4a4a;
+        position: absolute;
+        top: 17px;
+        right: 7px;
+        background: 0;
+        transition: .3s ease-in-out .2s
+    }
+
+    main.slider img {
+        object-fit: cover;
+        height: 400px
+    }
+
+    section.award-strip .col-md-3 img {
+        width: 69px
+    }
+
+    .col-md-9 .award-recognization img {
+        width: 91px
+    }
+
+    section.blog-faq .blog-post .card-header button {
+        text-align: left;
+        font-size: 13px
+    }
+
+    .cta-form-design .col-md-6:last-child p {
+        font-size: 24px
+    }
+
+    .our-seo-process.text-center h2,.our-seo-process.text-center h3 {
+        font-size: 28px
+    }
+
+    .service-section .service-clm h6 {
+        font-size: 26px
+    }
+
+    .footer-badge img {
+        width: 72px
+    }
+
+    .ftr_cta_blk .col-md-3 a,.ftr_cta_blk .col-md-3 span {
+        font-size: 14px
+    }
+
+    section.what-make-diffrent .col {
+        text-align: center;
+        width: 50%!important;
+        max-width: 50%!important;
+        flex: 0 0 50%
+    }
+
+    section.what-make-diffrent .col p {
+        height: 100%;
+        overflow-y: auto;
+        z-index: 1;
+        position: relative;
+        text-align: center;
+        padding: 0
+    }
+
+    section.blog-faq.seo-faq .card-header {
+        min-width: 100%
+    }
+
+    .arrow-sign,.footer-badge,body.home_page main.slider,section.award-strip {
+        display: none
+    }
+
+    .hidden-form .row {
+        padding: 0 28px
+    }
+
+    .hidden-form .form-group.col-md-4+.form-group.col-md-12 input[type=submit] {
+        padding: 19px 11px;
+        right: 29px
+    }
+
+    body.seo-company-india-main .main.seo-tab ul.nav.nav-tabs li a {
+        width: 190px!important
+    }
+
+    .main.seo-tab ul.nav.nav-tabs li a {
+        padding: 5px 28px!important;
+        font-size: 19px;
+        font-weight: 600;
+        line-height: 26px
+    }
+
+    .seo-cpmpany-india-cont h2 {
+        font-size: 30px;
+        font-weight: 800
+    }
+
+    .container.reseller-solution-grid {
+        padding: 20px 15px
+    }
+
+    a.home-btn {
+        left: 0;
+        top: 10px
+    }
+
+    main.seo-package-area ul#pills-tab li a.active {
+        font-size: 25px
+    }
+}
+
+@media(min-width: 768px) and (max-width:992px) {
+    .figure-info-ui,body.seo-company-india-main .digital-marketing-txt.seo-page-cont img.pull-right {
+        float:none;
+        text-align: center
+    }
+
+    .what-make-diffrent-home .col {
+        flex-basis: auto
+    }
+
+    .explore-grid img,.mobile-banner-section img,.mobile-development-process img,.what-make-diffrent-home .col p {
+        height: auto
+    }
+
+    .home_page .digital-marketing-txt .chooseus {
+        font-size: 19px;
+        line-height: 28px;
+        padding-bottom: 15px
+    }
+
+    section.send-perposal input.form-control,section.send-perposal select.form-control {
+        margin-bottom: 5px
+    }
+
+    .home_page .hidden-form .form-group.col-md-3+.form-group.col-md-12 input[type=submit] {
+        top: 195px!important
+    }
+
+    .figure-info-ui iframe {
+        width: 100%;
+        padding: 10px!important
+    }
+
+    section.digital-marketing-txt.leftright .list-group-item {
+        font-size: 13px!important
+    }
+
+    section.digital-marketing-txt.leftright .tb {
+        font-size: 24px!important
+    }
+
+    section.blog-faq .blog-post .card-header button span.fa-stack.fa-2x i {
+        background: #ffffff00!important;
+        color: #fff;
+        padding: 0;
+        margin: 0;
+        font-size: 17px!important;
+        position: relative;
+        width: 30px;
+        height: 30px;
+        background: #263f4e!important;
+        line-height: 30px;
+        border-radius: 50px;
+        right: 0
+    }
+
+    section.blog-faq .blog-post .card-header button {
+        width: 100%;
+        text-decoration: none;
+        color: #263f4e;
+        font-size: 12px;
+        padding: 6px!important
+    }
+
+    .cta-form-design .col-md-6:last-child a.pgone {
+        font-size: 37px
+    }
+
+    .cta-form-design .col-md-6:last-child a.pgone+a {
+        font-size: 20px;
+        font-family: poppinsbold;
+        color: #11559b
+    }
+
+    header.main-header .top-nav ul li a {
+        font-size: 13px;
+        padding: 0 15px
+    }
+
+    a.navbar-brand img {
+        object-fit: contain
+    }
+
+    .arrow-sign,.footer-badge,.mobile-tab-content img,body.mobile-application-development-main br,main.slider,section.award-strip {
+        display: none
+    }
+
+    .digital-marketing-txt .text-ui h1,.main-heading-new,section.what-make-diffrent .what-make-txt-ui.text-center h2 {
+        font-size: 30px
+    }
+
+    .service-grid-box h3,.why-digital-marketing h4.panel-title a {
+        font-size: 20px
+    }
+
+    .why-digital-marketing h4.panel-title a:after,.why-digital-marketing h4.panel-title a:before {
+        font-size: 24px;
+        font-family: poppinslight;
+        position: relative;
+        top: 1px
+    }
+
+    .service-section .col-md-3,section.what-make-diffrent .col {
+        min-width: 50%
+    }
+
+    section.what-make-diffrent .col i {
+        display: block;
+        text-align: center
+    }
+
+    section.what-make-diffrent .col h3 {
+        font-size: 18px;
+        text-align: center
+    }
+
+    section.what-make-diffrent .col p {
+        padding-right: 0;
+        text-align: center
+    }
+
+    .see-our-result .see-result-btn a {
+        padding: 9px 4px;
+        font-size: 13px;
+        text-align: center;
+        margin: 0
+    }
+
+    .see-our-result .see-result-btn a span {
+        right: -3px;
+        top: 0;
+        font-size: 19px
+    }
+
+    .clients-new-silder .clients-new-silder-head h2,.our-seo-process.text-center h2,.our-seo-process.text-center h3,.seo-services-packages .packages-table-seo.text-center h2,.seo-strategy h2,section.seo-company-sec.seo-company-page .text-ui h1 {
+        font-size: 32px
+    }
+
+    .home_page .give-power-txt.our-seo-process.text-center.img-left img.pull-left {
+        width: 100%
+    }
+
+    .cta-form-design .row>.col-md-6:first-child {
+        padding: 40px 20px 0
+    }
+
+    .form-colom h4 {
+        font-size: 25px
+    }
+
+    .cta-form-design .col-md-6:last-child p {
+        font-size: 15px
+    }
+
+    .carosel-text p,.main-footer h3 {
+        font-size: 16px
+    }
+
+    .main-footer ul li a,.mobile-banner-section figure figcaption p {
+        font-size: 12px
+    }
+
+    .address div {
+        line-height: 30px;
+        font-size: 14px
+    }
+
+    .footer-social {
+        top: -46px
+    }
+
+    .ftr_cta_blk .col-md-3 a,.ftr_cta_blk .col-md-3 span {
+        font-size: 9px!important
+    }
+
+    div#navbarTogglerDemo03 {
+        position: absolute;
+        background: #11559b;
+        top: 67px;
+        z-index: 9999;
+        width: 100%
+    }
+
+    ul.navbar-nav.mt-lg-0 {
+        height: 100%;
+        width: 100%
+    }
+
+    div#navbarTogglerDemo03 li {
+        display: block;
+        border-bottom: 1px solid #ffffff1f
+    }
+
+    div#navbarTogglerDemo03 li a {
+        color: #fff;
+        display: inline-block!important
+    }
+
+    .dropdown-parent span.plus-tab {
+        border-top: 7px solid #fff;
+        right: 13px
+    }
+
+    button.navbar-toggler {
+        position: absolute;
+        right: 15px;
+        top: 15px
+    }
+
+    nav#sticky-header {
+        height: 65px
+    }
+
+    section.blog-faq.seo-faq .card-header {
+        min-width: 100%
+    }
+
+    main.slider.seo-service-page.seo-services-banner {
+        display: block!important
+    }
+
+    .breadcrumb-top ul {
+        text-align: center;
+        border-bottom: 1px solid #cccccc47
+    }
+
+    .digital-marketing-txt .col-md-4,.digital-marketing-txt .col-md-8,.seo-cpmpany-india-cont .top-seo-sub-clm .col-md-6 {
+        width: 100%;
+        min-width: 100%
+    }
+
+    .main.seo-tab ul.nav.nav-tabs li a {
+        padding: 5px 14px;
+        font-size: 15px;
+        font-weight: 600;
+        line-height: 27px
+    }
+
+    .main.seo-tab .tab-content .col-md-8 {
+        width: 100%;
+        min-width: 100%;
+        text-align: left
+    }
+
+    body.seo-services-main .our-seo-process.text-center figure {
+        text-align: center;
+        width: 100%;
+        float: left
+    }
+
+    .top-contact-strip ul li a {
+        width: 100%;
+        display: block;
+        line-height: 18px!important;
+        text-align: center;
+        font-size: 11px;
+        font-weight: 400;
+        padding: 7px 6px;
+        position: relative;
+        top: 0;
+        margin: 0!important
+    }
+
+    .top-contact-strip ul li a:after {
+        position: absolute;
+        width: 2px;
+        height: 14px;
+        background: #ddd;
+        content: '';
+        top: 8px;
+        right: -1px
+    }
+
+    .hidden-form {
+        left: 0;
+        right: 0
+    }
+
+    .hidden-form .row {
+        padding: 0 28px
+    }
+
+    .hidden-form .form-group.col-md-4+.form-group.col-md-12 {
+        position: absolute;
+        right: 0;
+        text-align: right;
+        padding: 0;
+        margin: 0
+    }
+
+    ul.submenu.mega-menu {
+        min-width: 100%;
+        left: 0!important;
+        column-count: auto;
+        height: 300px;
+        overflow: scroll
+    }
+
+    .top-secton nav.navbar li.nav-item:last-child .submenu {
+        left: 0;
+        width: 100%;
+        height: 200px;
+        overflow: scroll
+    }
+
+    main.slider,main.slider.seo-service-page.seo-company-india-banner {
+        display: block
+    }
+
+    body.seo-company-india-main .main.seo-tab ul.nav.nav-tabs li a {
+        width: 140px!important;
+        height: 60px;
+        font-size: 12px!important
+    }
+
+    .seo-cpmpany-india-cont h2 {
+        font-size: 30px;
+        font-weight: 800
+    }
+
+    .seo-cpmpany-india-cont .after-img {
+        position: relative;
+        text-align: center
+    }
+
+    .container.reseller-solution-grid {
+        padding: 30px 15px
+    }
+
+    .container.reseller-solution-grid .col-md-4 {
+        flex: 0 0 50%;
+        max-width: 50%
+    }
+
+    .figure-info-ui img.pull-right {
+        float: left;
+        margin: 0 auto;
+        text-align: center
+    }
+
+    .figure-info-ui {
+        margin: 0 auto 20px;
+        display: flex
+    }
+
+    main.seo-package-area ul#pills-tab li a {
+        font-size: 15px;
+        padding: 10px 21px
+    }
+
+    main.seo-package-area ul#pills-tab li a.active {
+        font-size: 20px;
+        padding: 10px 0
+    }
+
+    main.seo-package-area .tab-pane {
+        min-width: 1200px
+    }
+
+    .package-tab.stick {
+        overflow: auto
+    }
+
+    .seo-package-area .package-geading h2 {
+        font-size: 40px!important
+    }
+
+    .seo-package-area h2+h6 {
+        font-size: 23px;
+        text-align: left
+    }
+
+    .package-wrapper-area tr th {
+        font-size: 13px
+    }
+
+    section.seo-company-sec.seo-company-page {
+        background: #ececec;
+        padding: 20px 0;
+        text-align: center
+    }
+
+    .seo-services-packages {
+        background: #ececec;
+        padding: 25px 0
+    }
+
+    .seo-services-packages .seo-package-tab .nav li {
+        width: 246px;
+        text-align: center
+    }
+
+    .main.seo-tab {
+        text-align: center;
+        padding: 20px 0;
+        background: #eaeaea
+    }
+
+    .mobile-development-service-tabs .pill-left-tab,.recent-right-box {
+        padding-left: 0
+    }
+
+    .table-recent {
+        padding: 0 0 25px;
+        position: relative;
+        top: 0;
+        max-height: 418px;
+        overflow-y: auto;
+        width: 100%;
+        left: 0
+    }
+
+    .clients-new-silder-head {
+        margin-bottom: 20px
+    }
+
+    .mobile-banner-section figcaption {
+        padding-left: 20px
+    }
+
+    .mobile-banner-section figure figcaption h1 {
+        font-size: 29px;
+        line-height: 35px
+    }
+
+    .rate-grid-box .rate-grid {
+        margin-left: 15px
+    }
+
+    .rate-grid-box .rate-grid h2 {
+        font-size: 27px
+    }
+
+    .rate-grid-box .rate-grid p {
+        font-size: 11px;
+        line-height: 19px
+    }
+
+    .counter-grid p {
+        font-size: 12px;
+        line-height: 20px;
+        padding: 0 8px
+    }
+
+    .aso-grid p {
+        font-size: 13px;
+        line-height: 18px
+    }
+
+    .service-grid-box p {
+        height: 194px;
+        overflow-y: scroll
+    }
+
+    .app-development-process .process-text-grid {
+        position: absolute;
+        top: 60%;
+        height: 213px;
+        padding: 0 20px;
+        overflow-y: scroll;
+        line-height: 31px;
+        font-size: 14px
+    }
+
+    .service-grid-box {
+        padding: 15px;
+        font-size: 17px
+    }
+
+    section.mobile-development-process .business-pills a {
+        font-size: 17px;
+        margin: 0;
+        padding: 10px
+    }
+
+    .explore-grid p {
+        padding-right: 0;
+        line-height: 30px;
+        margin: 10px 0 0
+    }
+
+    section.why-get-footer p {
+        margin: 72px 0;
+        position: relative;
+        bottom: 23px;
+        font-size: 16px
+    }
+
+    .mobile-app-text {
+        padding: 0 30px;
+        width: 70%
+    }
+
+    .mobile-development-service-tabs .pill-left-tab p {
+        line-height: 25px;
+        margin-top: 13px
+    }
+}
+
+@media(max-width: 767px) {
+    .what-make-diffrent-home .col {
+        flex-basis:auto
+    }
+
+    .after-img img,.digital-marketing-txt.seo-page-cont img.pull-right,.digital-marketing-txt.seo-page-cont img.pull-right-1.lazyloaded,.mobile-app-div img,.mobile-banner-section img,.what-make-diffrent-home .col p,section.mobile-development-process img {
+        height: auto
+    }
+
+    .home_page .digital-marketing-txt .chooseus {
+        font-size: 19px;
+        line-height: 28px;
+        padding-bottom: 15px
+    }
+
+    section.send-perposal input.form-control,section.send-perposal select.form-control {
+        margin-bottom: 5px
+    }
+
+    .home_page .hidden-form .form-group.col-md-3+.form-group.col-md-12 input[type=submit] {
+        top: 195px!important
+    }
+
+    .arrow-sign,.digital-marketing-txt-des,.footer-badge,.home_page main.slider,.mobile-banner-section figure figcaption a,.mobile-banner-section figure figcaption p,.mobile-hide,.mobile-tab-content img,.seo-company-india-main .main.seo-tab .tab,.seo-company-india-main .moreview-scroll,.seo-company-india-main .seo-package-tab,.seo-company-india-main .seo-packages-btn,.seo-services-main .seo-package-tab,.seo-services-main .seo-packages-btn,.seo-services-packages .packages-table-seo.text-center h2:before,.sidebar-contact .toggle span.mobile-hide,.top-header,.top-nav a.btn.btn-warning,body.mobile-application-development-main br,div#navbarTogglerDemo03 li:first-child,main.slider,main.slider.seo-service-page.seo-company-india-banner,main.slider.seo-service-page.seo-services-banner,section.about-abhishek-mishra ul.contact-list li a:after,section.award-strip,section.digital-marketing-txt.leftright .list-group-item.active:before,ul.ul-ui-css>li ul li:before {
+        display: none
+    }
+
+    .digital-services-wrap .card-header .nav-tabs .nav-link,.what-does-ez-rankings .info-panel .col-md-4 {
+        margin-right: 0!important
+    }
+
+    .digital-marketing-txt .text-ui h1,section.seo-company-sec.seo-company-page .text-ui h1 {
+        font-size: 22px!important;
+        padding: 30px 15px;
+        background: #e2e2e2;
+        color: #253f50;
+        margin: -20px -15px 20px!important
+    }
+
+    .case-studies-facts h2,.cta-form-design .col-md-6:last-child a.pgone,.form-colom h4,.see-our-result .heading h3,.seo-services-packages .packages-table-seo.text-center h2,.testimonial-sec2 h2,div.service-section h2,section.packages-section.package-page.seo-packages h1 {
+        font-size: 30px
+    }
+
+    .explore-grid,.google-certified-logo,.number-cta-colom {
+        text-align: center
+    }
+
+    .case-study-img img,.seo-rank-table.new-table-ui ul li,div#global .seo-rank-table.new-table-ui ul.package-head li {
+        width: 100%!important
+    }
+
+    .google-certified-logo img {
+        padding: 10px;
+        box-shadow: 0 0 6px #e3e3e3;
+        margin-bottom: 10px;
+        width: auto!important
+    }
+
+    .our-ppc-service .what-make-txt-ui.text-center h2 {
+        font-family: poppinsbold;
+        color: #253f50;
+        font-size: 30px;
+        margin-bottom: 20px
+    }
+
+    .figure-info-ui iframe {
+        width: 100%;
+        padding: 10px!important
+    }
+
+    .seo-company-india-main .years-success ul.success-list li {
+        border-bottom: 1px solid #fff
+    }
+
+    .dig-mar-txt-mobile .dig-mar-mobile .card .card-header .btn-header-link {
+        padding: 12px;
+        font-size: 20px
+    }
+
+    .dig-mar-txt-mobile .card-body p,.our-seo-process.text-center p,.packages-table p,.seo-strategy p,.what-make-txt-ui.text-center p {
+        text-align: justify
+    }
+
+    .counter-grid-box,.dig-mar-txt-mobile,.rate-grid-box,.representatives-main .our-key,.representatives-main main.slider.seo-service-page.seo-company-india-banner,.send-perposal .form-clm,.seo-company-india-main .mobile-price-table,.seo-company-india-main .seo-tab-for-mobile,.seo-services-main .mobile-price-table,.top-secton nav.navbar .brand-name,.top-secton nav.navbar .brand-name+a,.years-success ul.success-list,section.about-abhishek-mishra ul.contact-list {
+        display: block
+    }
+
+    .bg-light .brand-name+a,.brand-name a.btn.btn-warning.mobile-btn,.responsive-img {
+        display: block!important
+    }
+
+    .dig-mar-txt-mobile .tb {
+        font-size: 23px
+    }
+
+    .digital-marketing-txt.seo-page-cont iframe {
+        width: 100%!important;
+        padding: 10px!important
+    }
+
+    .top-secton .col-md-3 .brand-name img {
+        width: 115px!important;
+        height: 100%!important
+    }
+
+    .main-header a.btn.btn-warning.mobile-btn {
+        float: right;
+        margin: 8px 10px 8px 8px;
+        font-size: 16px;
+        padding: 5px 10px!important
+    }
+
+    header.main-header .top-nav ul {
+        padding: 0;
+        margin: 0;
+        justify-content: center
+    }
+
+    header.main-header .top-nav ul li a:after {
+        right: 3px;
+        border-width: 4px
+    }
+
+    .top-secton nav.navbar .brand-name+a {
+        opacity: 1;
+        position: absolute;
+        top: 8px;
+        transition: .3s ease-in-out;
+        left: 90px!important;
+        color: #fff
+    }
+
+    .bg-light .brand-name+a {
+        font-size: 17px;
+        background: #11559b;
+        padding: 6px 20px;
+        border-radius: 0;
+        text-align: center!important;
+        font-weight: 700;
+        position: relative;
+        top: -4px;
+        margin-right: 30vw!important
+    }
+
+    .bg-light .brand-name+a:after {
+        position: absolute;
+        left: 20px;
+        width: 10px;
+        height: 10px;
+        background: #11559b;
+        content: "";
+        bottom: -4px;
+        transform: rotate(32deg)
+    }
+
+    button.navbar-toggler {
+        position: absolute;
+        right: 7px;
+        top: 13px
+    }
+
+    .top-secton nav.navbar {
+        height: 63px
+    }
+
+    #sticky-header.sticky .brand-name {
+        opacity: 1!important;
+        display: block
+    }
+
+    section.send-perposal .form-group.col-md-6 input.btn.btn-warning {
+        position: relative;
+        border-radius: 60px
+    }
+
+    .why-digital-marketing h4.panel-title a {
+        margin-top: 5px;
+        line-height: 24px;
+        text-align: left
+    }
+
+    section.what-make-diffrent .col {
+        width: 100%;
+        border-right: 0;
+        border-bottom: 4px solid #e2e1e1;
+        max-width: 100%!important;
+        min-width: 100%;
+        text-align: center!important
+    }
+
+    section.what-make-diffrent .col p {
+        padding-right: 0;
+        text-align: center
+    }
+
+    .see-our-result .heading h6 {
+        font-size: 20px
+    }
+
+    .see-our-result .see-result-btn a {
+        width: 100%;
+        margin: 10px 0;
+        font-size: 18px;
+        padding: 10px
+    }
+
+    section.blog-faq .blog-post h3 {
+        font-size: 26px;
+        margin-bottom: 0;
+        margin-top: 10px
+    }
+
+    section.blog-faq .blog-post .card-header button {
+        height: 78px;
+        text-align: left;
+        font-size: 18px;
+        word-break: break-all;
+        white-space: initial
+    }
+
+    section.blog-faq .blog-post .card-header button span.fa-stack.fa-2x {
+        text-align: right
+    }
+
+    .our-seo-process.text-center h2 {
+        font-size: 22px!important;
+        margin-top: 10px
+    }
+
+    .cta-form-design .row>.col-md-6:first-child {
+        padding: 40px 15px 0
+    }
+
+    .form-colom h4 {
+        width: 100%;
+        margin-bottom: 20px
+    }
+
+    .cta-form-design .col-md-6:last-child p img {
+        display: block;
+        margin: 0 auto
+    }
+
+    .cta-form-design .col-md-6:last-child p,.digital-marketing-txt .text-ui h2,.give-power-txt-ui.text-center h3,section.seo-company-sec.seo-company-page .text-ui h2,section.seo-reseller-solution .container-fluid h3,section.seo-techniques-sec .text-ui h2,section.what-make-diffrent .what-make-txt-ui.text-center h2,section.your-seo-partner h2 {
+        font-size: 22px
+    }
+
+    .ftr_cta_blk .col-md-3 a,.ftr_cta_blk .col-md-3 span {
+        font-size: 0
+    }
+
+    .cta-form-design .col-md-6:last-child a.pgone+a {
+        font-size: 20px!important;
+        font-weight: 600;
+        color: #11559b
+    }
+
+    ul.footer-social {
+        padding: 15px 0 0;
+        text-align: left
+    }
+
+    .footer-social {
+        top: -9px;
+        position: relative
+    }
+
+    div#navbarTogglerDemo03 {
+        position: absolute;
+        background: #11559b;
+        top: 60px;
+        z-index: 9999999;
+        width: 100%
+    }
+
+    div#navbarTogglerDemo03 li a {
+        color: #fff;
+        display: inline-block!important;
+        border: 0
+    }
+
+    .dropdown-parent span.plus-tab {
+        border-top: 7px solid #fff
+    }
+
+    div#navbarTogglerDemo03 li {
+        display: block;
+        border-bottom: 1px solid #ffffff1f
+    }
+
+    .sidebar-contact .toggle {
+        display: none;
+        width: 50px;
+        height: 50px;
+        left: -50px;
+        border-radius: 25px 0 0 24px;
+        transform: rotate(0)
+    }
+
+    .sidebar-contact .toggle:before {
+        left: 5px;
+        transform: rotate(-245deg);
+        top: 3px;
+        font-size: 29px;
+        content: "\f27a"
+    }
+
+    .sidebar-contact .toggle.active:before {
+        content: "\f00d"
+    }
+
+    .top-secton nav.navbar .brand-name {
+        opacity: 1!important;
+        transition: .2s ease-in-out
+    }
+
+    #sticky-header.sticky .brand-name+a {
+        left: 90px;
+        padding: 6px 11px;
+        font-size: 17px!important
+    }
+
+    .seo-single-blog a {
+        font-size: 16px;
+        padding: 10px 35px
+    }
+
+    section.send-perposal span.message {
+        color: #e43636;
+        position: relative;
+        top: 31px;
+        background: #fff
+    }
+
+    .hidden-form .form-group.col-md-4 {
+        width: 100%!important;
+        padding: 5px 15px
+    }
+
+    .hidden-form .form-group.col-md-4+.form-group.col-md-12 {
+        position: relative;
+        text-align: center;
+        right: 0;
+        margin-top: 10px
+    }
+
+    .hidden-form .form-group.col-md-4 .form-control,.hidden-form .form-group.col-md-4:nth-child(3) input {
+        border-radius: 0
+    }
+
+    .form-group.col-md-12 input[type=submit],.hidden-form .form-group.col-md-4+.form-group.col-md-12 input[type=submit] {
+        position: relative;
+        border-radius: 50px
+    }
+
+    .slider h1,.slider h2 {
+        font-size: 30px;
+        margin-top: 22px;
+        display: block
+    }
+
+    main.seo-service-page a.btn {
+        font-size: 12px;
+        padding: 3px 8px!important
+    }
+
+    .seo-strategy h2 {
+        font-size: 28px
+    }
+
+    .moreview-scroll {
+        font-size: 14px;
+        display: block;
+        font-weight: 500;
+        color: #11559b;
+        letter-spacing: 0
+    }
+
+    .main.seo-tab ul.nav.nav-tabs {
+        display: -webkit-box;
+        flex-wrap: inherit;
+        overflow-x: auto;
+        width: 100%;
+        overflow-y: hidden
+    }
+
+    .main.seo-tab ul.nav.nav-tabs li {
+        min-width: 200px
+    }
+
+    .main.seo-tab ul.nav.nav-tabs li a {
+        padding: 15px 10px!important;
+        font-size: 16px;
+        text-align: center;
+        font-weight: 600
+    }
+
+    .about-seo .about-seo-head h2 {
+        font-size: 32px
+    }
+
+    body.seo-services-main .our-seo-process.text-center figure img {
+        object-fit: cover
+    }
+
+    body.seo-services-main .our-seo-process.text-center figure {
+        text-align: center;
+        width: 100%;
+        float: left
+    }
+
+    .main.seo-tab .tab-content {
+        padding: 10px;
+        text-align: justify
+    }
+
+    section.blog-faq.seo-faq .card-header {
+        min-width: 100%
+    }
+
+    section.blog-faq.seo-faq button {
+        height: 100%!important
+    }
+
+    .top-nav ul li .dropdown {
+        width: 138px;
+        min-width: 100%;
+        top: 100%;
+        z-index: 999999999!important;
+        display: none;
+        justify-content: center
+    }
+
+    .top-nav ul li .dropdown li a {
+        padding: 6px 10px!important;
+        font-family: poppinsmedium
+    }
+
+    div#navbarTogglerDemo03 li>.submenu li,div#navbarTogglerDemo03 li>.submenu li a {
+        background: #072a4e;
+        color: #fff!important;
+        border-bottom: 1px solid #ccc3;
+        display: block!important
+    }
+
+    .top-secton nav.navbar li.nav-item .submenu {
+        display: none;
+        transform: scale(1);
+        visibility: visible;
+        opacity: 1
+    }
+
+    .top-secton nav.navbar li.nav-item:nth-child(3) .submenu {
+        min-width: 100%!important
+    }
+
+    ul.submenu.mega-menu {
+        min-width: 100%;
+        left: 0!important;
+        column-count: auto;
+        height: 300px;
+        overflow: scroll
+    }
+
+    .top-secton nav.navbar li.nav-item:last-child .submenu {
+        left: 0;
+        width: 100%;
+        height: 200px;
+        overflow: scroll
+    }
+
+    .main-footer ul li:hover ul.footer-dropdown {
+        left: 0;
+        position: relative;
+        width: 100%
+    }
+
+    .seo-cpmpany-india-cont h2 {
+        font-size: 30px;
+        font-weight: 800
+    }
+
+    section.seo-reseller-solution .container-fluid a.btn+a.btn.btn-warning {
+        padding: 10px 26px;
+        margin-top: 10px;
+        font-size: 18px
+    }
+
+    section.seo-reseller-solution a.btn.btn-info {
+        padding: 10px 45px;
+        font-size: 20px;
+        transition: .4s ease-in-out
+    }
+
+    .container.reseller-solution-grid {
+        padding: 20px 15px
+    }
+
+    body.seo-reseller-services-main .container.reseller-solution-grid h2 {
+        font-size: 30px;
+        padding-top: 30px
+    }
+
+    body.seo-reseller-services-main .container.reseller-solution-grid .item {
+        height: auto!important
+    }
+
+    .seo-reseller-partner-form h2 {
+        font-size: 30px;
+        margin-bottom: 20px
+    }
+
+    section.seo-reseller-solution.whote-bg .container-fluid {
+        padding: 20px 15px;
+        margin-bottom: 30px
+    }
+
+    body.seo-reseller-services-main div.service-section h2 {
+        padding-bottom: 0;
+        text-align: left;
+        font-size: 30px
+    }
+
+    .owl-carousel .col-md-4 {
+        margin-right: 0;
+        padding-right: 0;
+        padding-left: 30px
+    }
+
+    .main.seo-tab.seo-tab-4 img.right.lazyloaded {
+        height: auto;
+        object-fit: cover;
+        width: 100%
+    }
+
+    .package-tab.stick,.table-view {
+        overflow: auto
+    }
+
+    .figure-info-ui {
+        float: none
+    }
+
+    .figure-info-ui img {
+        top: 0;
+        height: auto;
+        margin-left: 0!important
+    }
+
+    .packages-table ul.ul-ui-css li {
+        text-align: justify;
+        padding: 10px 0
+    }
+
+    .packages-table ul.ul-ui-css ul {
+        margin: 0;
+        padding: 0;
+        text-align: justify
+    }
+
+    .seo-package-area .package-geading h2 {
+        font-size: 29px!important;
+        line-height: 25px;
+        font-weight: 800;
+        text-align: left
+    }
+
+    .seo-package-area .package-geading {
+        display: block;
+        text-align: center
+    }
+
+    .seo-package-area h2+h6 {
+        font-size: 17px;
+        margin-bottom: 0;
+        text-align: left;
+        padding-bottom: 20px
+    }
+
+    main.seo-package-area ul#pills-tab li a {
+        font-size: 20px!important;
+        padding: 10px!important
+    }
+
+    main.seo-package-area ul#pills-tab li a.active {
+        font-size: 22px!important;
+        padding: 13px!important
+    }
+
+    main.seo-package-area ul#pills-tab {
+        display: flex;
+        flex-wrap: inherit;
+        display: -webkit-box;
+        flex-wrap: inherit;
+        width: 100%;
+        text-align: center;
+        justify-content: center;
+        margin-left: 30px
+    }
+
+    .scroll-tabel,main.seo-package-area .accordian-packages .package_table table.seo-rank-table.table,main.seo-package-area .accordian-packages h4.text-center.sep-heading {
+        width: 1000px
+    }
+
+    main.seo-package-area .accordian-packages {
+        min-width: 1000px
+    }
+
+    .package-wrapper-area table.seo-rank-table.table {
+        width: 700px
+    }
+
+    .package-wrapper-area {
+        overflow-x: scroll
+    }
+
+    .why-digital-marketing div#collapseItemCloseOne h2,.why-digital-marketing div#collapseItemCloseOne h3 {
+        text-align: left
+    }
+
+    .about-white-gray.Defoult-page-UI h1 {
+        color: #1d5272;
+        font-size: 22px
+    }
+
+    .about-white-gray.Defoult-page-UI {
+        padding: 0
+    }
+
+    .package-page h1 {
+        font-size: 27px
+    }
+
+    ul#pills-tab {
+        margin: 0;
+        width: auto!important
+    }
+
+    .brand-name a {
+        display: inline-block;
+        position: relative;
+        top: 0
+    }
+
+    section.blog-faq ul.blog-listing li a {
+        font-size: 18px;
+        font-weight: 500;
+        padding: 0;
+        line-height: 30px;
+        margin: 10px 0
+    }
+
+    section.blog-faq ul.blog-listing li a span.date {
+        bottom: 0;
+        position: relative
+    }
+
+    ul.blog-listing li {
+        padding: 10px 0
+    }
+
+    .blog-post div#accordion {
+        margin-top: 20px
+    }
+
+    .main-footer ul li a {
+        display: block;
+        margin: 5px 0
+    }
+
+    header.main-header .top-nav ul li a {
+        border: 0;
+        font-size: 13px;
+        padding: 2px 13px
+    }
+
+    .digital-marketing-txt,section.recent-result-sec,section.seo-company-sec.seo-company-page {
+        padding: 20px 0
+    }
+
+    .digital-marketing-txt .text-ui p {
+        font-size: 18px!important;
+        text-align: justify;
+        margin-bottom: 1rem;
+        line-height: 32px;
+        font-family: poppinsregular,sans-serif
+    }
+
+    .years-success h3 {
+        font-family: poppinsbold;
+        color: #fff;
+        margin-bottom: 0;
+        font-size: 28px
+    }
+
+    .years-success ul.success-list li h4 {
+        font-size: 32px;
+        margin: 0
+    }
+
+    .years-success {
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center
+    }
+
+    .recent-right-box {
+        padding-left: 0;
+        margin-top: 20px
+    }
+
+    .seo-services-packages,section.seo-techniques-sec {
+        background: #ececec;
+        padding: 20px 0
+    }
+
+    .clients-new-silder .clients-new-silder-head h2,.main-heading-new {
+        font-size: 26px
+    }
+
+    .why-digital-marketing h4.panel-title a {
+        font-size: 14px!important
+    }
+
+    .table-recent {
+        padding: 0 0 25px;
+        position: relative;
+        top: 0;
+        max-height: 418px;
+        overflow-y: auto;
+        width: 100%;
+        left: 0
+    }
+
+    .clients-new-silder-head {
+        margin-bottom: 20px
+    }
+
+    .mobile-banner-section figure figcaption h1 {
+        font-size: 20px;
+        line-height: 26px
+    }
+
+    .mobile-banner-section figcaption {
+        padding-left: 24px
+    }
+
+    .rate-grid-box .rate-grid {
+        width: 50%;
+        float: left;
+        margin-left: 0;
+        justify-content: center;
+        align-items: center
+    }
+
+    .rate-grid-box .rate-grid:last-child {
+        float: none;
+        margin: auto
+    }
+
+    .rate-grid-box .rate-grid p {
+        max-width: 100%;
+        text-align: center
+    }
+
+    .rate-grid::after {
+        box-shadow: 0 2px 0 #eae5e5;
+        border-bottom: 2px solid #d9d5d5;
+        border-right: none
+    }
+
+    .counter-grid {
+        float: left;
+        width: 50%;
+        min-height: 176px;
+        border-bottom: 1px solid #174b7c;
+        border-right: none;
+        box-shadow: 0 2px 0 #1766b18c;
+        margin: 13px 0;
+        padding: 13px 0
+    }
+
+    .counter-grid-box .counter-grid:last-child {
+        float: none;
+        margin: auto;
+        clear: both
+    }
+
+    .mobile-tab-content {
+        padding: 31px 0
+    }
+
+    .business-domain {
+        padding-bottom: 40px
+    }
+
+    .business-grid {
+        margin: 20px 0 7px
+    }
+
+    body.mobile-application-development-main .cta-form-design,section.mobile-development-process .business-pills,section.why-get-footer p {
+        margin-top: 0
+    }
+
+    section.mobile-development-process .business-pills a {
+        font-size: 19px;
+        margin: 0
+    }
+
+    .app-development-process .process-text-grid {
+        max-width: 227px;
+        height: 200px;
+        padding: 20px 10px;
+        overflow-y: scroll;
+        line-height: 25px;
+        font-size: 13px
+    }
+
+    .why-get-app div#get-app button {
+        position: relative!important;
+        transform: unset!important
+    }
+
+    section.why-get-footer {
+        position: static;
+        bottom: 0;
+        padding: 10px 0 46px;
+        height: auto;
+        margin-bottom: 0
+    }
+
+    .explore-grid p {
+        padding-right: 0;
+        margin-top: 10px;
+        text-align: center;
+    }
+
+    .service-grid-box {
+        padding: 25px;
+        min-height: auto
+    }
+
+    .app-content p {
+        font-size: 16px
+    }
+
+    .aso-grid {
+        max-width: 100%
+    }
+
+    section.why-get-app .owl-nav {
+        margin: 22px 0
+    }
+
+    .desktop-img {
+        display: none!important
+    }
+
+    .mobile-app-text {
+        position: absolute;
+        top: 50%;
+        width: 100%;
+        left: 50%;
+        height: 200px;
+        transform: translate(-50%,-50%);
+        padding: 0 31px;
+        overflow-y: scroll
+    }
+
+    .why-get-app div#get-app button.owl-prev {
+        left: 0
+    }
+
+    .why-get-app div#get-app button.owl-next {
+        right: 0
+    }
+
+    .service-grid-box h3 {
+        font-size: 22px;
+        height: auto
+    }
+
+    .app-content h3 {
+        font-size: 29px
+    }
+
+    .mobile-development-service-tabs .nav-pills {
+        overflow-x: scroll;
+        margin: auto;
+        display: flex;
+        flex-direction: unset!important;
+        flex-wrap: nowrap!important
+    }
+
+    .mobile-development-service-tabs div#v-pills-tab a {
+        color: #000;
+        padding: 18px 17px 18px 22px;
+        border-radius: 0;
+        background: #fff;
+        display: flex;
+        align-items: center;
+        flex-wrap: nowrap!important
+    }
+
+    .mobile-development-service-tabs .pill-left-tab {
+        padding-left: 0
+    }
+
+    .mobile-development-service-tabs .pill-left-tab p {
+        margin: 12px 0 0;
+        font-size: 16px;
+        line-height: 25px
+    }
+
+    .what-does-ez-rankings .info-panel .icon img {
+        width: 151px;
+        padding: 0
+    }
+
+    .what-does-ez-rankings .info-panel .icon {
+        padding: 18px;
+        text-align: center
+    }
+
+    .enables-Online-growth .text-ui h2 {
+        font-size: 22px!important;
+        padding: 30px 15px;
+        color: #253f50;
+        margin-bottom: 20px!important
+    }
+
+    section.your-seo-partner .left h3 {
+        font-size: 17px;
+        font-weight: 100!important;
+        text-align: center
+    }
+
+    .what-does-ez-rankings .leftright-title h2 {
+        color: #253f50;
+        font-size: 25px;
+        font-family: poppinsbold
+    }
+
+    header.main-header .top-nav {
+        margin: 10px 0
+    }
+
+    .what-does-ez-rankings .info-panel .detail {
+        background-color: rgba(255,255,255,.18);
+        padding: 5px 20px 15px;
+        min-height: auto;
+        text-align: justify
+    }
+
+    .enables-Online-growth p {
+        color: #616161;
+        font-family: poppinsregular,sans-serif;
+        text-align: justify
+    }
+
+    .main.seo-tab ul.nav.nav-tabs2 li a {
+        padding: 15px 10px!important;
+        font-size: 22px;
+        text-align: center;
+        font-weight: 600
+    }
+
+    section.your-seo-partner .left ul li {
+        display: flex
+    }
+
+    .seo-company-india-main .mobile-price-table a,.seo-services-main .mobile-price-table a {
+        margin: 0 auto;
+        width: 100%
+    }
+
+    section.about-abhishek-mishra h3 {
+        padding-top: 10px;
+        text-align: center
+    }
+
+    .mission-section ul#myTab li a,.mission-section ul#myTab li a.active {
+        padding: 9px 5px!important
+    }
+}
+
+@media(max-width: 360px) {
+    .figure-info-ui iframe {
+        width:100%;
+        padding: 10px!important
+    }
+
+    .digital-marketing-txt .text-ui p {
+        font-size: 18px!important;
+        line-height: 25px
+    }
+
+    .top-secton nav.navbar .brand-name+a {
+        left: 90px;
+        padding: 6px 11px;
+        font-size: 15px
+    }
+
+    .main-header a.btn.btn-warning.mobile-btn {
+        font-size: 12px
+    }
+
+    .digital-marketing-txt .text-ui h1 {
+        font-size: 16px
+    }
+
+    #sticky-header.sticky .brand-name+a {
+        left: 90px;
+        padding: 6px 11px;
+        font-size: 15px!important
+    }
+
+    section.seo-company-sec.seo-company-page .text-ui h2,section.seo-techniques-sec .text-ui h2 {
+        font-size: 20px
+    }
+}
+
+@media (min-width: 768px) and (max-width:1200px) {
+    .introduction-ls h2,body.home_page .digital-marketing-txt .text-ui h1,section.easy-work-process h2,section.rewarding-seo .rewarding-seo-head h2,section.timeline-sec .header-title h2 {
+        font-family:poppinsbold;
+        color: #253f50;
+        font-size: 35px
+    }
+
+    section.track-record-sec .succ-story-card {
+        display: flex;
+        flex-direction: column
+    }
+
+    section.track-record-sec .succ-story-card figure {
+        width: 100%;
+        margin: 0
+    }
+
+    section.track-record-sec .succ-story-card .caption {
+        width: 100%;
+        background: #f9cf2f;
+        border-radius: 0 0 20px 20px;
+        padding: 14px 20px;
+        margin-left: 0;
+        height: auto
+    }
+
+    section.track-record-sec .succ-story-card figure img {
+        height: 200px;
+        object-fit: cover;
+        width: 100%
+    }
+
+    .home_page .success-story-review-sec .what-make-txt-ui h2 {
+        font-size: 35px;
+        text-align: center
+    }
+
+    .clients-new-silder .clients-new-silder-head h2,section.client-video-section h2,section.section-white.why-do-sec .section-header h2.section-title {
+        font-size: 35px
+    }
+
+    .why-do-bussiness .col-md-6.wow.slideInLeft,section.introduction-ls .right-img-wrap,section.section-grey.easy-work-process div#v-pills-tabContent,section.speed-up-sec .col-md-6.wow.slideInLeft {
+        display: none
+    }
+
+    .why-do-bussiness .col-md-6,section.introduction-ls .col-md-8,section.section-grey.easy-work-process .col-md-6,section.speed-up-sec .col-md-6 {
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+
+    .row.why-do-bussiness ul {
+        margin: 0;
+        padding: 0
+    }
+
+    section.rewarding-seo .rewarding-seo-head h2 {
+        font-weight: 600
+    }
+
+    section.client-video-section .video-card {
+        background: #fff;
+        padding: 15px;
+        box-shadow: rgb(0 0 0 / 10%) 0 10px 50px;
+        min-height: 810px
+    }
+
+    .introduction-ls h2 {
+        margin-bottom: 20px
+    }
+
+    section.timeline-sec .header-title h2 {
+        margin-bottom: 5px;
+        text-align: center
+    }
+
+    section.timeline-sec .timeline-wrapper .mid {
+        width: 57%;
+        position: absolute;
+        left: 52%;
+        top: 51%;
+        transform: translate(-50%,-50%);
+        z-index: -1
+    }
+
+    section.timeline-sec .timeline-wrapper .right ul li {
+        position: relative;
+        line-height: 76px;
+        height: 60px
+    }
+
+    section.timeline-sec .timeline-wrapper .left ul li {
+        list-style: none;
+        position: relative;
+        height: 64px!important;
+        line-height: 87px
+    }
+
+    section.timeline-sec .timeline-wrapper .left ul li:nth-child(5) span a {
+        right: -59px;
+        top: 26%;
+        background-color: #8d85ac96
+    }
+
+    section.timeline-sec .timeline-wrapper .right ul li:nth-child(6) span a {
+        left: -50px;
+        top: 6%;
+        background-color: #f9ac5a96
+    }
+
+    section.timeline-sec .timeline-wrapper .mid h3.now {
+        font-size: 80px;
+        color: #253f50;
+        position: absolute;
+        top: -29%;
+        right: 25%
+    }
+
+    section.timeline-sec .timeline-wrapper .mid h3.before {
+        font-size: 80px;
+        color: #253f50;
+        position: absolute;
+        bottom: -29%;
+        right: 51%
+    }
+
+    section.pack-call-to-action .col-md-3 {
+        flex: 0 0 44%;
+        max-width: 44%
+    }
+
+    section.home-service-march-23 ul li {
+        list-style: none;
+        text-align: center;
+        width: 31%
+    }
+
+    .home_page .service-section h2 {
+        padding-bottom: 4px;
+        font-size: 35px
+    }
+
+    section.easy-work-process h2 {
+        font-weight: 600;
+        text-align: center
+    }
+
+    body.home_page .digital-marketing-txt .text-ui h1 {
+        margin-bottom: -35px
+    }
+}
+
+@media (max-width: 768px) {
+    .seo-plans-in-inr-main table.seo-rank-table.table {
+        min-width:1200px
+    }
+
+    .client-review-btn a {
+        width: 100%!important
+    }
+
+    .dropdown-parent span.plus-tab {
+        border-top: 13px solid #fff!important;
+        border-left: 13px solid transparent!important;
+        border-right: 13px solid transparent!important;
+        position: absolute
+    }
+
+    .top-secton nav.navbar a.nav-link {
+        color: #000;
+        font-size: 17px!important
+    }
+
+    .web-development-company-india-main .mobile-app-ser-box .left-wrap ul.logos {
+        flex-wrap: wrap;
+        justify-content: center
+    }
+
+    .web-development-company-india-main .industries-we-serve ul {
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        gap: 0;
+        margin: 0;
+        padding: 0
+    }
+
+    .navbar-nav .submenu li:hover .subdropdown-menuu,.subdropdown-menuu,.web-development-company-india-main .figure-info-ui img {
+        display: none
+    }
+
+    .navbar-nav .subdropdown-menuu li.nav-item a {
+        background: #11559b!important;
+        width: 100%!important;
+        display: block!important
+    }
+
+    .top-secton nav.navbar .submenu li.nav-item:nth-child(3) .subdropdown-menuu,.top-secton nav.navbar .submenu li.nav-item:nth-child(4) .subdropdown-menuu {
+        min-width: 100%!important
+    }
+
+    .top-secton nav.navbar .nav-item span.right-menu-icon {
+        float: right;
+        background: #11559b;
+        width: 20px;
+        height: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 11px;
+        margin-right: 10px
+    }
+
+    .navbar-nav .subdropdown-menuu {
+        top: 100%;
+        left: 0;
+        margin: 0;
+        padding: 0;
+        width: 104%;
+        z-index: 999
+    }
+
+    .menu .submenu {
+        width: 100%;
+        left: 0;
+        position: relative
+    }
+
+    div#navbarTogglerDemo03 {
+        position: absolute;
+        background: #11559b;
+        top: 60px;
+        z-index: 9999999;
+        width: 100%;
+        overflow: scroll;
+        height: 314px
+    }
+
+    .navbar-nav .subdropdown-menuu {
+        float: none;
+        position: relative!important
+    }
+
+    section.track-record-sec .succ-story-card {
+        flex-direction: column;
+        width: 100%
+    }
+
+    section.track-record-sec .succ-story-card .caption {
+        width: 100%;
+        background: #f9cf2f;
+        border-radius: 0 0 10px 10px!important;
+        padding: 14px 20px;
+        margin-left: 0;
+        height: 216px;
+        margin-top: 0
+    }
+
+    section.track-record-sec .succ-story-card figure {
+        width: 100%;
+        margin: 0
+    }
+
+    section.home-service-march-23 ul li {
+        list-style: none;
+        text-align: center;
+        width: 100%
+    }
+
+    .why-do-bussiness ul {
+        margin: 0;
+        padding: 0
+    }
+
+    .why-do-bussiness ul li {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 3px 10px;
+        background: #fff;
+        margin-bottom: 5px
+    }
+
+    .why-do-bussiness ul li span.nm {
+        font-size: 16px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 14%;
+        height: 77px;
+        background: #f1eb2b;
+        color: #000;
+        font-weight: 700;
+        box-shadow: rgba(100,100,111,.2) 0 7px 29px 0;
+        margin-bottom: 6px
+    }
+
+    section.section-white.why-do-sec img {
+        height: auto
+    }
+
+    section.timeline-sec .header-title h2 {
+        font-family: poppinsbold;
+        color: #253f50;
+        margin-bottom: 5px;
+        font-size: 30px;
+        text-align: center
+    }
+
+    .speed-up-sec h3 {
+        font-size: 30px;
+        font-weight: 600;
+        color: #253f50;
+        font-family: poppinsbold;
+        text-align: left;
+        margin-top: 20px
+    }
+
+    .clients-new-silder .clients-new-silder-head h2,section.rewarding-seo .rewarding-seo-head h2,section.section-white.why-do-sec .section-header h2.section-title {
+        font-size: 25px
+    }
+}
+
+@media (max-width: 400px) {
+    img.ezlogocenterimg {
+        left:27%!important;
+        top: 25.2%
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .seo-service-img-right.lazyload {
+        display: none;
+    }
+
+    .digital-marketing-txt .text-ui h1, section.seo-company-sec.seo-company-page .text-ui h1 {
+        font-size: 52px !important;
+    }
+}
